@@ -5,6 +5,18 @@
       "1.0.0+local"
     ],
     [
+      "accounts-oauth",
+      "1.0.0+local"
+    ],
+    [
+      "accounts-password",
+      "1.0.0+local"
+    ],
+    [
+      "accounts-ui-unstyled",
+      "1.0.0+local"
+    ],
+    [
       "application-configuration",
       "1.0.0+local"
     ],
@@ -41,6 +53,10 @@
       "1.0.0+local"
     ],
     [
+      "email",
+      "1.0.0+local"
+    ],
+    [
       "facts",
       "1.0.0+local"
     ],
@@ -61,10 +77,6 @@
       "1.0.0+local"
     ],
     [
-      "http",
-      "1.0.0+local"
-    ],
-    [
       "id-map",
       "1.0.0+local"
     ],
@@ -78,6 +90,10 @@
     ],
     [
       "json",
+      "1.0.0+local"
+    ],
+    [
+      "less",
       "1.0.0+local"
     ],
     [
@@ -117,10 +133,6 @@
       "1.0.0+local"
     ],
     [
-      "oauth1",
-      "1.0.0+local"
-    ],
-    [
       "observe-sequence",
       "1.0.0+local"
     ],
@@ -130,6 +142,10 @@
     ],
     [
       "random",
+      "1.0.0+local"
+    ],
+    [
+      "reactive-dict",
       "1.0.0+local"
     ],
     [
@@ -149,6 +165,10 @@
       "1.0.0+local"
     ],
     [
+      "session",
+      "1.0.0+local"
+    ],
+    [
       "spacebars",
       "1.0.0+local"
     ],
@@ -157,11 +177,11 @@
       "1.0.0+local"
     ],
     [
-      "templating",
+      "srp",
       "1.0.0+local"
     ],
     [
-      "tinytest",
+      "templating",
       "1.0.0+local"
     ],
     [

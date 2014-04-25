@@ -5,6 +5,10 @@
       "1.0.0+local"
     ],
     [
+      "accounts-oauth",
+      "1.0.0+local"
+    ],
+    [
       "application-configuration",
       "1.0.0+local"
     ],
@@ -161,7 +165,7 @@
       "1.0.0+local"
     ],
     [
-      "tinytest",
+      "twitter",
       "1.0.0+local"
     ],
     [

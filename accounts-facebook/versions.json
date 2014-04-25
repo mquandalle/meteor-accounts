@@ -5,6 +5,10 @@
       "1.0.0+local"
     ],
     [
+      "accounts-oauth",
+      "1.0.0+local"
+    ],
+    [
       "application-configuration",
       "1.0.0+local"
     ],
@@ -38,6 +42,10 @@
     ],
     [
       "ejson",
+      "1.0.0+local"
+    ],
+    [
+      "facebook",
       "1.0.0+local"
     ],
     [
@@ -117,7 +125,7 @@
       "1.0.0+local"
     ],
     [
-      "oauth1",
+      "oauth2",
       "1.0.0+local"
     ],
     [
@@ -158,10 +166,6 @@
     ],
     [
       "templating",
-      "1.0.0+local"
-    ],
-    [
-      "tinytest",
       "1.0.0+local"
     ],
     [

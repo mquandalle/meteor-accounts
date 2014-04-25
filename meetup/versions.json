@@ -117,7 +117,7 @@
       "1.0.0+local"
     ],
     [
-      "oauth1",
+      "oauth2",
       "1.0.0+local"
     ],
     [
@@ -158,10 +158,6 @@
     ],
     [
       "templating",
-      "1.0.0+local"
-    ],
-    [
-      "tinytest",
       "1.0.0+local"
     ],
     [

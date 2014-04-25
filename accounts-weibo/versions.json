@@ -5,6 +5,10 @@
       "1.0.0+local"
     ],
     [
+      "accounts-oauth",
+      "1.0.0+local"
+    ],
+    [
       "application-configuration",
       "1.0.0+local"
     ],
@@ -117,7 +121,7 @@
       "1.0.0+local"
     ],
     [
-      "oauth1",
+      "oauth2",
       "1.0.0+local"
     ],
     [
@@ -161,10 +165,6 @@
       "1.0.0+local"
     ],
     [
-      "tinytest",
-      "1.0.0+local"
-    ],
-    [
       "ui",
       "1.0.0+local"
     ],
@@ -174,6 +174,10 @@
     ],
     [
       "webapp",
+      "1.0.0+local"
+    ],
+    [
+      "weibo",
       "1.0.0+local"
     ]
   ],
